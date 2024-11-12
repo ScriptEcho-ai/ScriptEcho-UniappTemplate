@@ -1,10 +1,10 @@
-import { createApp } from "vue";
-import "./style.css";
+import {
+	createSSRApp
+} from "vue";
 import App from "./App.vue";
-import Antd from "ant-design-vue";
-import router from "./router/index.js";
-
-const app = createApp(App);
-app.use(Antd);
-app.use(router);
-app.mount("#app");
+export function createApp() {
+	const app = createSSRApp(App);
+	return {
+		app,
+	};
+}

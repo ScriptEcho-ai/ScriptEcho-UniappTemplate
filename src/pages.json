@@ -11,54 +11,6 @@
       "style": {
         "navigationBarTitleText": "uni-app"
       }
-    },
-    {
-      "path": "pages/Test7/1/index",
-      "style": {
-        "navigationBarTitleText": "Test7"
-      }
-    },
-    {
-      "path": "pages/Vue-uni_modules-uview-plus-components-uview-plus-uview-plus/4/index",
-      "style": {
-        "navigationBarTitleText": "Vue-uni_modules-uview-plus-components-uview-plus-uview-plus"
-      }
-    },
-    {
-      "path": "pages/Vue-uni_modules-uview-plus-components-u-waterfall-u-waterfall/1/index",
-      "style": {
-        "navigationBarTitleText": "Vue-uni_modules-uview-plus-components-u-waterfall-u-waterfall"
-      }
-    },
-    {
-      "path": "pages/Vue-uni_modules-uview-plus-components-u-upload-u-upload/1/index",
-      "style": {
-        "navigationBarTitleText": "Vue-uni_modules-uview-plus-components-u-upload-u-upload"
-      }
-    },
-    {
-      "path": "pages/Vue-uni_modules-uview-plus-components-u-transition-u-transition/2/index",
-      "style": {
-        "navigationBarTitleText": "Vue-uni_modules-uview-plus-components-u-transition-u-transition"
-      }
-    },
-    {
-      "path": "pages/Vue-uni_modules-uview-plus-components-u-tr-u-tr/1/index",
-      "style": {
-        "navigationBarTitleText": "Vue-uni_modules-uview-plus-components-u-tr-u-tr"
-      }
-    },
-    {
-      "path": "pages/Vue-uni_modules-uview-plus-components-u-tooltip-u-tooltip/1/index",
-      "style": {
-        "navigationBarTitleText": "Vue-uni_modules-uview-plus-components-u-tooltip-u-tooltip"
-      }
-    },
-    {
-      "path": "pages/Vue-uni_modules-uview-plus-components-u-toast-u-toast/1/index",
-      "style": {
-        "navigationBarTitleText": "Vue-uni_modules-uview-plus-components-u-toast-u-toast"
-      }
     }
   ],
   "globalStyle": {
